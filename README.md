@@ -499,6 +499,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [CrossRef Reference Matching code and evaluation data](https://github.com/CrossRef/reference-matching-evaluation)
 * [Citation style classifier and evaluation data](https://gitlab.com/crossref/citation_style_classifier)
 * [refextract - extracting references used in scholarly communication](https://github.com/inspirehep/refextract)
+* [CiteMe](https://citeme.app) - Academic citation generator that searches OpenAlex, CrossRef, PubMed, and Semantic Scholar. Formats references in 40+ CSL styles with DOI, PMID, and ISBN lookup.
 
 ## Publication and Publisher Info
 
